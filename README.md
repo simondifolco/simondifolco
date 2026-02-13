@@ -7,3 +7,4 @@ const stack = {
   engine:   ["OpenClaw"]
 };
 ```
+Average tech guy exploring future of tech
