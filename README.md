@@ -2,10 +2,13 @@
 
 Building at the intersection of local agents and scalable backends.
 
-### 🛠 Stack
-- **Next.js**
-- **Convex**
-- **OpenClaw**
+```ts
+const stack = {
+  frontend: ["Next.js", "React"],
+  backend:  ["Convex"],
+  engine:   ["OpenClaw"]
+};
+```
 
 ---
-*Identity: Efficiency | Sovereignty | Resilience*
+*Efficiency | Sovereignty | Resilience*
