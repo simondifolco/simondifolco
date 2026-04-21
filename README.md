@@ -1,4 +1,4 @@
-# Simon Di Folco
+# Simon DiFolco
 
 ```ts
 const stack = {
